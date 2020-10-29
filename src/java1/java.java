@@ -10,7 +10,7 @@ Scanner input=new Scanner(System.in);
 String Userinput= input.nextLine();
 System.out.println("Userdata: "+ "Userinput");
 System.out.println("change by new guy");
-
+System.out.println("change from original guy");
 	}
 
 }
